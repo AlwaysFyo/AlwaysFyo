@@ -1,5 +1,6 @@
 # Hi there 👋   
 
+<div>&nbsp;</div>
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   
@@ -8,9 +9,6 @@
   <div>&nbsp;</div>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);折腾是一种乐趣，求知是一种追求。&center=true&size=27)](https://git.io/typing-svg)
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
